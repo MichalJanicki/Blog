@@ -1,0 +1,8 @@
+{
+    "config": {
+		"bin-dir" : "./"
+	},
+    "require": {
+        "ruckusing/ruckusing-migrations": "dev-master"
+    }
+}
